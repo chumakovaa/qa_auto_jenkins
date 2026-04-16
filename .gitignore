@@ -1,0 +1,15 @@
+allure-results/
+allure-report/
+
+log.txt
+
+# Pytest artifacts
+.pytest_cache/
+.cache/
+
+# Python build/environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
